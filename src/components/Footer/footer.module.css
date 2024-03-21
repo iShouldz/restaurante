@@ -1,0 +1,6 @@
+.footerCotainer{
+    display: flex;
+    justify-content: center;
+    background-color: #FF3131;
+    color: white
+}
